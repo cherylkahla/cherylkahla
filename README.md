@@ -1,16 +1,47 @@
-## Hi there 👋
+# rock different, babe 🤘
 
-<!--
-**cherylkahla/cherylkahla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Cheryl.
 
-Here are some ideas to get you started:
+I build things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sometimes they're newsrooms.
+
+Sometimes they're AI.
+
+Sometimes they're games.
+
+Usually they're ideas that people said were "a bit ambitious."
+
+---
+
+## Current quests
+
+🚀 TechNation News
+
+🤖 Kayde.exe
+
+🤘 Rock Different
+
+🎮 Hollywell Studios
+
+✍️ Kahlamity
+
+---
+
+## I spend far too much time thinking about
+
+- AI journalism
+- Editorial infrastructure
+- Storytelling
+- Product design
+- Weird internet culture
+- Boxing
+- South Korea
+- Why every website looks the same
+
+---
+
+Currently trying to build things people remember.
+
+Not just things people click.
+
