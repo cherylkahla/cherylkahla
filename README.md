@@ -28,3 +28,5 @@ I build things.
 ---
 
 Currently trying to build things people remember.
+
+<img width="450" height="150" alt="cheryl kahla logo" src="https://github.com/user-attachments/assets/f4b58342-2186-454f-a910-8d0d2a968585" />
